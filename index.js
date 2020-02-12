@@ -64,5 +64,14 @@ module.exports = {
     react: {
       version: "detect"
     }
-  }
+  },
+  ignorePatterns: [
+    "node_modules/",
+    "**/*.test.ts",
+    "**/*.test.tsx",
+    "**/*.min.js",
+    "**/*.min.jsx",
+    "src/serviceWorker.ts",
+    "src/react-app-env.d.ts"
+  ]
 };
