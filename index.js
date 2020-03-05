@@ -71,8 +71,9 @@ module.exports = {
     "**/*.test.tsx",
     "**/*.min.js",
     "**/*.min.jsx",
-    "src/serviceWorker.ts",
     "src/react-app-env.d.ts",
+    "src/serviceWorker.ts",
+    "src/setupTests.ts",
     "build/",
     "dist/",
     "public/"
