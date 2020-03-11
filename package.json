@@ -13,6 +13,7 @@
     "release": "release-it --ci"
   },
   "dependencies": {
+    "eslint-config-airbnb": "^18.0.1",
     "eslint-config-generic-ts": "^1.0.1",
     "eslint-config-react": "^1.1.7",
     "eslint-plugin-react": "^7.18.3",
