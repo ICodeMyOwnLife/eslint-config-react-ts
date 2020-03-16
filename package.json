@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-react-ts",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "description": "Shared config for React + TypeScript projects",
   "main": "index.js",
   "author": "Hien CB",
