@@ -13,11 +13,11 @@
     "release": "release-it --ci"
   },
   "dependencies": {
-    "eslint-config-airbnb": "^18.0.1",
-    "eslint-config-generic-ts": "^1.0.1",
+    "eslint-config-airbnb": "^18.1.0",
+    "eslint-config-generic-ts": "^1.0.3",
     "eslint-config-react": "^1.1.7",
-    "eslint-plugin-react": "^7.18.3",
-    "eslint-plugin-react-hooks": "^2.3.0"
+    "eslint-plugin-react": "^7.19.0",
+    "eslint-plugin-react-hooks": "^2.5.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^8.3.5",
