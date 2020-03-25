@@ -10,7 +10,7 @@
   "license": "MIT",
   "scripts": {
     "commit": "git-cz",
-    "release": "release-it --ci"
+    "release": "release-it"
   },
   "dependencies": {
     "eslint-config-airbnb": "^18.1.0",
