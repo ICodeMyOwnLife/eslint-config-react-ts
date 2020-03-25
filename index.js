@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ["plugin:react/recommended", "airbnb", "generic-ts"],
+  extends: ["airbnb", "plugin:react/recommended", "generic-ts"],
   plugins: ["react", "react-hooks"],
   parserOptions: {
     ecmaFeatures: {
