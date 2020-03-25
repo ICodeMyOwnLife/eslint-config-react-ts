@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ["airbnb", "plugin:react/recommended", "generic-ts"],
+  extends: ["plugin:react/recommended", "airbnb", "generic-ts"],
   plugins: ["react", "react-hooks"],
   parserOptions: {
     ecmaFeatures: {
@@ -19,7 +19,7 @@ module.exports = {
     "react/jsx-props-no-spreading": "off",
     "react/jsx-wrap-multilines": ["error", { prop: "ignore" }],
     "react/prop-types": "off",
-    "react-hooks/exhaustive-deps": "warn",
+    "react-hooks/exhaustive-deps": "error",
     "react-hooks/rules-of-hooks": "error"
   },
   settings: {
