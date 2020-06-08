@@ -1687,10 +1687,10 @@ eslint-config-airbnb@^18.1.0:
     object.assign "^4.1.0"
     object.entries "^1.1.1"
 
-eslint-config-generic-ts@^2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/eslint-config-generic-ts/-/eslint-config-generic-ts-2.1.1.tgz#351ba073dda856bcd052602acf81d3781c81e441"
-  integrity sha512-mPuGL0fB6AaNSw1HYeGep33WDevCshcT4JC8k7LLz5NjQR3daiqQaoMnjoionOgMh2reAwzC1a5IIMvHFHzEGQ==
+eslint-config-generic-ts@^2.1.2:
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/eslint-config-generic-ts/-/eslint-config-generic-ts-2.1.2.tgz#595075989a59445e865198a6f6d9f9ceb7677125"
+  integrity sha512-1BTw73lQRU2hE1faitzrhkZ4FkBCXxv4GdespIHoypk0WoPh5AUmjeHMHBO4jHdUh4uuqW32vOGR4l4/otvREw==
   dependencies:
     "@typescript-eslint/eslint-plugin" "^3.1.0"
     "@typescript-eslint/parser" "^3.1.0"
