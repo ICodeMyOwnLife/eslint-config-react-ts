@@ -1687,16 +1687,16 @@ eslint-config-airbnb@^18.1.0:
     object.assign "^4.1.0"
     object.entries "^1.1.1"
 
-eslint-config-generic-ts@^2.1.2:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/eslint-config-generic-ts/-/eslint-config-generic-ts-2.1.2.tgz#595075989a59445e865198a6f6d9f9ceb7677125"
-  integrity sha512-1BTw73lQRU2hE1faitzrhkZ4FkBCXxv4GdespIHoypk0WoPh5AUmjeHMHBO4jHdUh4uuqW32vOGR4l4/otvREw==
+eslint-config-generic-ts@^2.1.3:
+  version "2.1.3"
+  resolved "https://registry.yarnpkg.com/eslint-config-generic-ts/-/eslint-config-generic-ts-2.1.3.tgz#11df479bb3a6f93485cab9f3fe2ad00347e068c5"
+  integrity sha512-ehus9s1eJ/to90/4tkfpM7Z9Wd30WI+JH79xWbap9pAT89nNibfKTuGmVWc/hqwMulBdbCHlbQw6KrfmdHj2EQ==
   dependencies:
     "@typescript-eslint/eslint-plugin" "^3.1.0"
     "@typescript-eslint/parser" "^3.1.0"
     eslint-config-airbnb-base "^14.1.0"
     eslint-config-prettier "^6.11.0"
-    eslint-plugin-import "^2.21.0"
+    eslint-plugin-import "^2.21.1"
     eslint-plugin-jsx-a11y "^6.2.3"
     eslint-plugin-prettier "^3.1.3"
     prettier "^2.0.5"
@@ -1729,10 +1729,10 @@ eslint-module-utils@^2.6.0:
     debug "^2.6.9"
     pkg-dir "^2.0.0"
 
-eslint-plugin-import@^2.21.0:
-  version "2.21.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-import/-/eslint-plugin-import-2.21.0.tgz#15cb42ba1db390068d67ed8d4810d817c952a6c8"
-  integrity sha512-fbbjKv3jv23WZ1+uCyYOGx+J8H4vAVlVcc9YLHRCycDry1LdgjdSvt7O0dQS1PwOUu/s0QWfR1xE7mq0GuqYnA==
+eslint-plugin-import@^2.21.1:
+  version "2.21.1"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-import/-/eslint-plugin-import-2.21.1.tgz#3398318e5e4abbd23395c4964ce61538705154c8"
+  integrity sha512-qYOOsgUv63vHof7BqbzuD+Ud34bXHxFJxntuAC1ZappFZXYbRIek3aJ7jc9i2dHDGDyZ/0zlO0cpioES265Lsw==
   dependencies:
     array-includes "^3.1.1"
     array.prototype.flat "^1.2.3"
