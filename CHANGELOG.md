@@ -1,3 +1,5 @@
+## [2.1.3](https://github.com/ICodeMyOwnLife/eslint-config-react-ts/compare/2.1.2...2.1.3) (2020-06-08)
+
 ## [2.1.2](https://github.com/ICodeMyOwnLife/eslint-config-react-ts/compare/2.1.1...2.1.2) (2020-06-08)
 
 ## [2.1.1](https://github.com/ICodeMyOwnLife/eslint-config-react-ts/compare/2.1.0...2.1.1) (2020-06-08)
