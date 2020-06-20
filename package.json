@@ -16,8 +16,8 @@
     "release": "release-it --ci"
   },
   "dependencies": {
-    "eslint-config-airbnb": "^18.1.0",
-    "eslint-config-generic-ts": "^2.1.4",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-generic-ts": "^2.1.5",
     "eslint-config-react": "^1.1.7",
     "eslint-plugin-react": "^7.20.0",
     "eslint-plugin-react-hooks": "^4.0.4"
@@ -29,7 +29,7 @@
     "commitizen": "^4.1.2",
     "cz-conventional-changelog": "^3.2.0",
     "husky": "^4.2.5",
-    "release-it": "^13.6.2"
+    "release-it": "^13.6.3"
   },
   "config": {
     "commitizen": {
