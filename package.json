@@ -17,19 +17,19 @@
   },
   "dependencies": {
     "eslint-config-airbnb": "^18.2.0",
-    "eslint-config-generic-ts": "^2.1.5",
+    "eslint-config-generic-ts": "^2.1.6",
     "eslint-config-react": "^1.1.7",
-    "eslint-plugin-react": "^7.20.0",
-    "eslint-plugin-react-hooks": "^4.0.4"
+    "eslint-plugin-react": "^7.21.2",
+    "eslint-plugin-react-hooks": "^4.1.2"
   },
   "devDependencies": {
-    "@commitlint/cli": "^8.3.5",
-    "@commitlint/config-conventional": "^8.3.4",
-    "@release-it/conventional-changelog": "^1.1.4",
-    "commitizen": "^4.1.2",
-    "cz-conventional-changelog": "^3.2.0",
-    "husky": "^4.2.5",
-    "release-it": "^13.6.3"
+    "@commitlint/cli": "^11.0.0",
+    "@commitlint/config-conventional": "^11.0.0",
+    "@release-it/conventional-changelog": "^2.0.0",
+    "commitizen": "^4.2.1",
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^4.3.0",
+    "release-it": "^14.0.3"
   },
   "config": {
     "commitizen": {
